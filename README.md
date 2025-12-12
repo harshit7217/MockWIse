@@ -1,4 +1,3 @@
-# MockWIse
 <p align="center">
   <img src="/public/assets/log/MockWise.png"   alt="MockWise Logo"  width="200"/>
 </p>
@@ -117,8 +116,8 @@ git push origin feature/your-feature
 #### Then open a Pull Request 🙌
 
 ## Contact
-- GitHub: @Aryankadyan
-- Email: kadyanaryan744@gmail.com
+- GitHub: @harshit7217
+- Email: harshitchaudhary568@gmail.com
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
